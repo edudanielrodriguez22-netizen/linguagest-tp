@@ -61,7 +61,7 @@ linguagest-java/
     └── resources/config.properties
 ```
 
-## Correspondencia con el informe (Etapa 2)
+## Correspondencia con el informe (Trabajo Practico Nº 2)
 
 | Documento | Código |
 |---|---|
